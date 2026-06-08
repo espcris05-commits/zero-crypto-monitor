@@ -18,3 +18,20 @@ Contacto: WA +5214439066555
 
 ## Licencia
 Uso personal/comercial permitido. No redistribución.
+
+---
+
+## 💰 Pricing
+
+**Price: $10-25 USD** (varía por producto)
+
+**Payment methods accepted:**
+- Litecoin (LTC)
+- Dogecoin (DOGE)  
+- Stellar (XLM)
+- USDT (TRC-20)
+- PayPal
+
+**Contact:** espcris05@proton.me
+
+⚡ Built by Zero Autonomous Systems
